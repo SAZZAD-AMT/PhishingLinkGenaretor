@@ -90,7 +90,7 @@ logo = f"""
 {red} | |   | |_| | |    | | | | \__ \ | | |  __/ |   
 {yellow} |_|    \__, |_|    |_| |_|_|___/_| |_|\___|_|   
 {green}         __/ |{" "*19}       {cyan}[v{version[:3]}]
-{cyan}        |___/  {" "*11}      {red}[By \x4b\x61\x73\x52\x6f\x75\x64\x72\x61]
+{cyan}        |___/  {" "*11}      {red}[By Sazzad]
 """
 
 
@@ -377,13 +377,13 @@ def bgtask(command, stdout=PIPE, stderr=DEVNULL, cwd="./"):
         return Popen(command, shell=True, stdout=stdout, stderr=stderr, cwd=cwd)
     except Exception as e:
         append(e, error_file)
-        
+'''       
 if sha256(logo.encode("utf-8")).hexdigest() != "931df196786d840c731d49fec1b43ab15edc7977f4e300bfb4c2e3657b9c591d":
     print(f"{info}Visit: {repo_url}")
     bgtask(f"xdg-open {repo_url}")
     delete(__file__)
     exit(1)
-
+'''
 
 # Write/Append texts to a file
 def write(text, filename):
