@@ -1,8 +1,8 @@
 # PhishingLinkGenaretor
 
 Clone the REPO: `git clone https://github.com/SAZZAD-AMT/PhishingLinkGenaretor.git`
-#stand on : `sudo su`
-RUN: `python pyphisher.py`
+# stand on : `sudo su`
+# RUN: `python pyphisher.py`
 
 <div align="center">
   <img src="img/1.png" >
