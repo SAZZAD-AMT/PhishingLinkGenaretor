@@ -1,24 +1,4 @@
-IP                   : 103.100.235.170
-IP Type              : IPv4
-User OS              : Linux
-User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
-Version              : x86_64;
-Browser              : Firefox
-Location             : Dhaka, Bangladesh, Asia
-GeoLocation(lat, lon): 23.810332, 90.4125181
-Currency             : Bangladeshi Taka
-
-IP                   : 103.133.201.227
-IP Type              : IPv4
-User OS              : Linux
-User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
-Version              : x86_64;
-Browser              : Firefox
-Location             : Dhaka, Bangladesh, Asia
-GeoLocation(lat, lon): 23.810332, 90.4125181
-Currency             : Bangladeshi Taka
-
-IP                   : 103.133.201.227
+IP                   : 103.133.201.235
 IP Type              : IPv4
 User OS              : Linux
 User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
